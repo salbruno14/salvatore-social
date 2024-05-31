@@ -1,0 +1,6 @@
+.giu{
+    background-color: rgb(167, 146, 111);
+    display: flex;
+    flex: 1;
+    justify-content: center;
+}

@@ -1,0 +1,15 @@
+.content{
+    background-color: rgb(167, 146, 111);
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    color: antiquewhite;
+    gap: 4px;
+    color: black;
+}
+
+.post{
+    border: 3px solid;
+    border-color: rgb(235, 28, 59);
+    background: linear-gradient(-10deg, rgb(167, 146, 111), rgba(190, 23, 48, 0.27));
+}    
